@@ -29,4 +29,4 @@ The program is compiled in C++, i left a makefile for Linux distros, but you mus
 - `Create an auto buy option` : this step needs to verify if the application works perfectly atleast some months before passing to actual money.
 
 # License
-[GNU General Public License v2.0](LICENSE.md)
+[GNU General Public License v2.0](LICENSE)
